@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Automation" verbose="1" parallel="false" >
+
+    
+    <test name="Automation" >
+        <classes>
+            <class name="com.planit.UITest" />
+            </classes>
+    </test>
+</suite>

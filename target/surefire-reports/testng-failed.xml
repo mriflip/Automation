@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Automation]">
+  <test name="Automation(failed)">
+    <classes>
+      <class name="com.planit.UITest">
+        <methods>
+          <include name="bunningsTest"/>
+        </methods>
+      </class> <!-- com.planit.UITest -->
+    </classes>
+  </test> <!-- Automation(failed) -->
+</suite> <!-- Failed suite [Automation] -->

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation" duration-ms="10833" started-at="2017-03-23T01:26:18Z" finished-at="2017-03-23T01:26:29Z">
+    <groups>
+    </groups>
+    <test name="Automation" duration-ms="10833" started-at="2017-03-23T01:26:18Z" finished-at="2017-03-23T01:26:29Z">
+      <class name="com.planit.UITest">
+        <test-method status="PASS" signature="bunningsTest()[pri:0, instance:com.planit.UITest@69909c14]" name="bunningsTest" duration-ms="10811" started-at="2017-03-23T12:26:18Z" finished-at="2017-03-23T12:26:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bunningsTest -->
+      </class> <!-- com.planit.UITest -->
+    </test> <!-- Automation -->
+  </suite> <!-- Automation -->
+</testng-results>
